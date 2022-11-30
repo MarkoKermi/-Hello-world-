@@ -93,9 +93,7 @@ Example commands:
 
 👤 **Author**
 
-- GitHub: [@TamaraDimov](https://github.com/TamaraDimov)
-- Twitter: [@DimovTamara](https://twitter.com/home)
-- LinkedIn: [Tamara Dimov](https://www.linkedin.com/in/tamara-dimov-b85139a2/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
